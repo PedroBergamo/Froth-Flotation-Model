@@ -1,0 +1,15 @@
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.csproj.AssemblyReference.cache
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.AssemblyInfoInputs.cache
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.AssemblyInfo.cs
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.csproj.CoreCompileInputs.cache
+/Users/pedber/Desktop/Doctorate/Process/bin/Debug/net5.0/Process.deps.json
+/Users/pedber/Desktop/Doctorate/Process/bin/Debug/net5.0/Process.runtimeconfig.json
+/Users/pedber/Desktop/Doctorate/Process/bin/Debug/net5.0/Process.runtimeconfig.dev.json
+/Users/pedber/Desktop/Doctorate/Process/bin/Debug/net5.0/Process.dll
+/Users/pedber/Desktop/Doctorate/Process/bin/Debug/net5.0/ref/Process.dll
+/Users/pedber/Desktop/Doctorate/Process/bin/Debug/net5.0/Process.pdb
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.dll
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/ref/Process.dll
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.pdb
+/Users/pedber/Desktop/Doctorate/Process/obj/Debug/net5.0/Process.genruntimeconfig.cache
