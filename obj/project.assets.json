@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pedber/Desktop/Doctorate/Process/Process.csproj",
+      "projectUniqueName": "/Users/pedber/Desktop/Doctorate/Process/Froth-Flotation-Model/Process.csproj",
       "projectName": "Process",
-      "projectPath": "/Users/pedber/Desktop/Doctorate/Process/Process.csproj",
+      "projectPath": "/Users/pedber/Desktop/Doctorate/Process/Froth-Flotation-Model/Process.csproj",
       "packagesPath": "/Users/pedber/.nuget/packages/",
-      "outputPath": "/Users/pedber/Desktop/Doctorate/Process/obj/",
+      "outputPath": "/Users/pedber/Desktop/Doctorate/Process/Froth-Flotation-Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pedber/.nuget/NuGet/NuGet.Config"
